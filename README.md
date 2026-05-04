@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Autonomous+Driving;Computer+Vision;BEV+Perception&center=true&size=20&color=58A6FF">
-</p>
 <h1 align="center">Shinbi Lee</h1>
 
 <p align="center">
