@@ -10,7 +10,7 @@ AI · Computer Vision · Sensor Fusion · Autonomous Driving
 
 ---
 
-### 🔥 Projects & Experiences
+### Projects & Experiences
 
 - [감정 기반 음악 추천 블로그 서비스 MoodLog](https://github.com/2mystery/Moodlog)
 - [2025 용인 세브란스 병원 디지털 헬스케어 해커톤 - Track2 항생제 기반 감염병 데이터 분석 : CUREMAP](https://github.com/2mystery/CureMap)
