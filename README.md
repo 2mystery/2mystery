@@ -17,7 +17,7 @@ AI · Computer Vision · Sensor Fusion · Autonomous Driving
 - AI 기반 피부 분석 - 사용자 맞춤형 화장품 추천 서비스 [RE-Skin](https://github.com/2mystery/RE-Skin-AI)
 - G-RISE 2025 지산학 얼라이언스 고도화 지역 산업군 PoC 연구(자연어 지시 기반 객체 탐지를 위한 Vision-Language 모델 PoC 연구) - 장려상 [Vision2Language](https://github.com/2mystery/2025-GRISE-PoC---Vision2Language)
 - 2026 경기도 대학생 자율주행 경진대회 - 우수상(차세대융합기술원장상) [See-Saw](https://github.com/TEAM-See-Saw)
-- SABER(Student Attention and BEhavior monitoR) : Real-Time Student Attention and Behavior Monitoring for Smart Proctoring [SABER](https://github.com/2mystery/SABER)
+- SABER - Real-Time Student Attention and Behavior Monitoring for Smart Proctoring [SABER](https://github.com/2mystery/SABER)
 
 ---
 
